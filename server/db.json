@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "b@gmail.com",
+      "password": "$2a$10$JHD.3Sw32eY17Gte/luZweOMi6hEhvHtExKpCgdPGy6pH.RUvucGu",
+      "user_name": "Nguyễn Văn B",
+      "address": "Hà Nội",
+      "dateOfBirth": "2023-09-07",
+      "role":1,
+      "gender": 0,
+      "id": 3
+    },
+    {
+      "email": "c@gmail.com",
+      "password": "$2a$10$OYg1xiCjTzbopRzA5newIenGzzLu0I/IRi6zcphVlwST.oUNKeiai",
+      "user_name": "Nguyễn Văn C",
+      "address": "Hà Nội",
+      "dateOfBirth": "2023-09-03",
+      "role":1,
+      "gender": 1,
+      "id": 4
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$bJroOqXneSUNmjmVrSfUbuigc5hKLu0YirtJu4mpUbXHGNhJXdKtC",
+      "user_name": "Nguyễn Văn A",
+      "address": "Hà Nội",
+      "dateOfBirth": "2023-09-01",
+      "role":0,
+      "gender": 0,
+      "id": 5
+    },
+    {
+      "email": "bn@gmail.com",
+      "password": "$2a$10$jNuISaCdmpj6y4UmjyZlkePRQpu71Z4fQeA/vZFszDsCA/6dPdO3C",
+      "user_name": "Nguyễn Văn D",
+      "address": "Hà Nam",
+      "dateOfBirth": "2023-04-20",
+      "role":1,
+      "gender": 0,
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "product_name": "Bưởi ",
+      "price": 180000,
+      "from": "Hà Nội",
+      "id": 4
+    },
+    {
+      "product_name": "Quýt",
+      "price": 25000,
+      "from": "Việt Nam",
+      "id": 5
+    },
+    {
+      "product_name": "Táo ",
+      "price": 80000,
+      "from": "China",
+      "id": 6
+    }
+  ]
+}
